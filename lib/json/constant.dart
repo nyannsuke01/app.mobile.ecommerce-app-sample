@@ -3,26 +3,26 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 const String APP_TITLE = 'SHOP UI';
 const String homeImg =
-    'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60';
+    'https://rezard.jp/apparel/img/10th_carousel01.jpg';
 
 const String profileUrl =
-    "https://images.unsplash.com/photo-1616597082843-de7ce757d548?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0N3x8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60";
+    "https://rezard.jp/apparel/img/10th_carousel01.jpg";
 
 const List<Map<String, Object>> categories = [
   {
     'title': 'New In',
     'imgUrl':
-        'https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZhc2hpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
+        'https://rezard.jp/apparel/img/10th_carousel01.jpg',
   },
   {
-    'title': 'Clothing',
+    'title': '',
     'imgUrl':
-        'https://images.unsplash.com/photo-1495121605193-b116b5b9c5fe?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fGZhc2hpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
+        'https://gigaplus.makeshop.jp/kokodake01/9th_carousel02.jpg',
   },
   {
     'title': 'Men',
     'imgUrl':
-        'https://images.unsplash.com/photo-1521341057461-6eb5f40b07ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60',
+        'https://gigaplus.makeshop.jp/kokodake01/10th_carousel02.jpeg',
   },
   {
     'title': 'Women',
